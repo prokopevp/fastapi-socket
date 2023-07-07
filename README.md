@@ -1,4 +1,4 @@
-# Тестовое задание для Relabs
+# FastAPI WebSocket
 
 ## Установка и запуск
 1) Установить `python` и `pip` с <a href="https://www.python.org/">официального сайта</a>  
